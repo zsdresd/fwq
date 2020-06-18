@@ -1,5 +1,5 @@
-if [ ! -d "/pixiv" ]; then
-  echo yes
+if [ ! -d "/content/fuck" ]; then
+  mkdir /content/fuck
   else
-  echo no
+  echo /content/fuckyou
 fi
